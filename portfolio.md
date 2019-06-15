@@ -15,7 +15,7 @@ permanlink: /portfolio/
               {{ portfolio.title }}
           </div>
           <div class="panel-body">
-            {{ portfolio.excerpt }}
+            {{ portfolio.image }}
           </div>
         </div>
       </div>

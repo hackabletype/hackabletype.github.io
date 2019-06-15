@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Interactive Media Installation: weBLIMP"
+tags: [interaction design, participatory media, installation, design, embodiment, SIAT, prototyping]
 ---
 
 ![weBlimp logo](../images/weblimp.png)
@@ -20,4 +21,10 @@ title: "Interactive Media Installation: weBLIMP"
 * [Green Diary](https://web.archive.org/web/20100208224821/http://m.greendiary.com/entry/weblimp-remote-controlled-blimp-reacts-to-crowd-response): _WeBlimp: Remote controlled blimp reacts to crowd response_. Now Archived, original link: [http://www.greendiary.com/entry/weblimp-remote-controlled-blimp-reacts-to-crowd-response/](http://www.greendiary.com/entry/weblimp-remote-controlled-blimp-reacts-to-crowd-response/)
 * [Gizmo Watch](https://web.archive.org/web/20100216064120/http://m.gizmowatch.com/entry/flying-the-weblimp-a-crowd-controlled-flying-airship): _Flying the WeBlimp, a crowd controlled flying airship_. Now archived, original link: [http://www.gizmowatch.com/entry/flying-the-weblimp-a-crowd-controlled-flying-airship/](http://www.gizmowatch.com/entry/flying-the-weblimp-a-crowd-controlled-flying-airship/)
 * [Technabob](http://technabob.com/blog/2010/02/06/weblimp-crowd-controlled-remote-airship/ "http://technabob.com/blog/2010/02/06/weblimp-crowd-controlled-remote-airship/"): _weblimp crowd-controlled remote airship: oh the humanity!_
+<br/>  
+<br/>  
+
+****
+February 2010  
+Filed under interaction design, participatory media, installation, design, embodiment, SIAT, prototyping.
 
