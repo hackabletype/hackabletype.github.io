@@ -16,7 +16,7 @@
 title: hackabletype
 email: hello@automaton.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Nate Waddingtonʼs blog and portfolio. 
+  nate waddingtonʼs blog and portfolio. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: hackabletype

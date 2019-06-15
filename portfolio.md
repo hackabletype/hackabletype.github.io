@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: portfolio
 permanlink: /portfolio/
 ---
 
@@ -24,3 +24,10 @@ permanlink: /portfolio/
   {% endfor %}
 
 </div>
+
+{% if page.summary %}
+<meta name="description" content="{{ page.summary | escape }}">
+{% endif %}
+{%if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+{%endif %}
