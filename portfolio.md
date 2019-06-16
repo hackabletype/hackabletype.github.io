@@ -14,9 +14,6 @@ permanlink: /portfolio/
           <div class="panel-heading">
               {{ portfolio.title }}
           </div>
-          <div class="panel-body">
-            {{ portfolio.image }}
-          </div>
         </div>
       </div>
     </a>
@@ -24,10 +21,3 @@ permanlink: /portfolio/
   {% endfor %}
 
 </div>
-
-{% if page.summary %}
-<meta name="description" content="{{ page.summary | escape }}">
-{% endif %}
-{%if page.tags %}
-<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
-{%endif %}
