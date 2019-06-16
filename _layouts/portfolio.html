@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+{{ content }}
+<br/>  
+<br/>  
+<hr style="border: none; height: 0.4px; color: grey; background: grey;"/>
+{{ page.date | date: "%B %Y" }}<br/>
+<small>Filed under
+{% comment %}
+{% for tag in page.tags %}<a href="/tag/{{ tag }}/">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}{% endfor %}
+{% endcomment %}
+{% for tag in page.tags %}{{ tag }}{% if forloop.last != true %}, {% endif %}{% endfor %}
+</small>
+
+{% if page.summary %}
+<meta name="description" content="{{ page.summary | escape }}">
+{% endif %}
+{%if page.tags %}
+<meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+{%endif %}

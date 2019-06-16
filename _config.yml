@@ -15,12 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: hackabletype
 email: hello@automaton.ca
-description: >- # this means to ignore newlines until "baseurl:"
-  nate waddingtonʼs blog and portfolio. 
+# description: >- # this means to ignore newlines until "baseurl:"
+#   nate waddingtonʼs blog and portfolio. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: nate waddington
-# twitter_username: hackabletype
+# twitter_username:
 github_username:  hackabletype
 linkedin_username: nate-double-u
 rss: rss
