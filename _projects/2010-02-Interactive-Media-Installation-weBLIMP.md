@@ -1,7 +1,7 @@
 ---
-title: "Interactive Media Installation: weBLIMP"
-subtitle: "A Participatory Multi-media Installation"
-description: ""
+title: "Interactive Media Installation"
+subtitle: "weBLIMP"
+description: "A Participatory Multi-media Installation"
 featured_image: '/images/weblimp/weblimp.png'
 date: 2010-02-28
 tags: [interaction design, participatory media, installation, design, embodiment, SIAT, prototyping]
