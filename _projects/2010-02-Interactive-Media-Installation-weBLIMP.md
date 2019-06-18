@@ -8,12 +8,11 @@ tags: [interaction design, participatory media, installation, design, embodiment
 published: true
 ---
 
-![weBlimp logo](/images/weblimp/weblimp.png)
+<iframe src="https://player.vimeo.com/video/4223282?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
+<br/>
 
 weBLIMP is a participatory media installation that explores crowd collaboration in the context of navigation. Participants are conceptually miniaturized and placed inside the gondola of a remote controlled blimp. Through ludic activities, where interaction is motivated by curiously and exploration instead of from external defined tasks, the project creates a sense of play. Participants, or pilots, steer the blimp by shifting their collective center of gravity, which in turn "tilts" the blimp in the appropriate direction.
 
-<iframe src="https://player.vimeo.com/video/4223282?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
-<br/>
 ## Press for weBLIMP
 <iframe src="https://player.vimeo.com/video/10548172?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
 
