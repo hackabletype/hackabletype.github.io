@@ -54,8 +54,12 @@
 	background: $background-alt-color;
 	min-height: 100vh;
 
+	@include mq(phonep) {
+		padding: 20px;
+	}
+
 	@include mq(tabletp) {
-		padding: 40px 0;
+		padding: 40px;
 	}
 
 	@include mq(tabletl) {
@@ -64,6 +68,10 @@
 
 	@include mq(laptop) {
 		padding: 60px $grid-spacing;
+	}
+
+	.wrap {
+		padding: 0;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {
