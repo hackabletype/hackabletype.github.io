@@ -1,5 +1,6 @@
 basic_settings:
   site_title: hackabletype
+  site_owner: Nate Waddington
   site_tagline: 
   favicon_image: /images/favicon.ico
 
