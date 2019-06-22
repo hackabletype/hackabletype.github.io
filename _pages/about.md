@@ -5,7 +5,7 @@ description: Nate Waddington's portfolio & blog.
 featured_image: /images/about/nateicon.png
 ---
 
-![](/images/about/nateicon.png)
+# ![](/images/about/nateicon.png)
 
 Nate Waddington is a Senior Creative Technologist at AKQA in San Francisco. At AKQA he works with the Experiential Team, working with the Technology Department, designers and clients, to build interactive installations for retail spaces, conferneces and other events. His interests extend to interaction design, writing, photography and of course computing. He is proud of his standing as a Jack of all trades.
 
