@@ -36,7 +36,7 @@ social_settings:
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
-  vimeo_url: ''
+  vimeo_url: 'https://vimeo.com/hackabletype'
   pinterest_url: ''
   medium_url: ''
   quora_url: ''
@@ -169,7 +169,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "UA-90567457-1"
   custom_styles: ""
   header_js: ""
   footer_js: ""
