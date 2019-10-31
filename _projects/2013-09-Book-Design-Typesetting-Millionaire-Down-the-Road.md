@@ -12,20 +12,13 @@ This book design was done for Douglas R. Hodgins’ [Millionaire Down the Road](
 
 See more of this type of work at [Typographic](http://typographic.ca).
 
-![toc](/images/projects/millionaire/mdtr-toc.png)
-
-![body copy](/images/projects/millionaire/mdtr-bodycopy.png)
-
-![graphs](/images/projects/millionaire/mdtr-graphs.png)
-
-![text with numbered list](/images/projects/millionaire/mdtr-txtwithnumberedlist.png)
-
-![table mid text head](/images/projects/millionaire/mdtr-table-midtexthead.png)
-
-<!-- ![chapter title](/images/millionaire/mdtr-chapter-title_440_2x.png) -->
-
-![index](/images/projects/millionaire/mdtr-index.png)
-
-![cover](/images/projects/millionaire/cover.png)
-
-![back cover](/images/projects/millionaire/backcover.png)
+<div class="gallery" data-columns="1">
+  <img src="/images/projects/millionaire/mdtr-toc.png">
+  <img src="/images/projects/millionaire/mdtr-bodycopy.png">
+  <img src="/images/projects/millionaire/mdtr-graphs.png">
+  <img src="/images/projects/millionaire/mdtr-txtwithnumberedlist.png">
+  <img src="/images/projects/millionaire/mdtr-table-midtexthead.png">
+  <img src="/images/projects/millionaire/mdtr-index.png">
+  <img src="/images/projects/millionaire/cover.png">
+  <img src="/images/projects/millionaire/backcover.png">
+</div>

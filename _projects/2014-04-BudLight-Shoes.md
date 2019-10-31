@@ -17,26 +17,18 @@ Once the shoes prototypes were ready, he and his fellow technologists made about
 
 ![Completed](/images/projects/bud-light-shoes/build-complete.png)
 
-![](/images/projects/bud-light-shoes/notes-1.jpg)
 
-![](/images/projects/bud-light-shoes/notes-2.jpg)
-
-![](/images/projects/bud-light-shoes/design.png)
-
-![](/images/projects/bud-light-shoes/design-compare-1.jpg)
-
-![](/images/projects/bud-light-shoes/design-compare-2.jpg)
-
-![](/images/projects/bud-light-shoes/laser-cut.png)
-
-![](/images/projects/bud-light-shoes/build-process-1.png)
-
-![](/images/projects/bud-light-shoes/build-process-2.jpg)
-
-![](/images/projects/bud-light-shoes/build-process-3.png)
-
-![](/images/projects/bud-light-shoes/first-build.jpg)
-
-![](/images/projects/bud-light-shoes/build-complete.png)
-
-![](/images/projects/bud-light-shoes/lights.png)
+<div class="gallery" data-columns="3">
+  <img src="/images/projects/bud-light-shoes/notes-1.jpg">
+  <img src="/images/projects/bud-light-shoes/notes-2.jpg">
+  <img src="/images/projects/bud-light-shoes/design.png">
+  <img src="/images/projects/bud-light-shoes/design-compare-1.jpg">
+  <img src="/images/projects/bud-light-shoes/design-compare-2.jpg">
+  <img src="/images/projects/bud-light-shoes/laser-cut.png">
+  <img src="/images/projects/bud-light-shoes/build-process-1.png">
+  <img src="/images/projects/bud-light-shoes/build-process-2.jpg">
+  <img src="/images/projects/bud-light-shoes/build-process-3.png">
+  <img src="/images/projects/bud-light-shoes/first-build.jpg">
+  <img src="/images/projects/bud-light-shoes/build-complete.png">
+  <img src="/images/projects/bud-light-shoes/lights.png">
+</div>
