@@ -2,7 +2,7 @@
 title: "Interaction Design Process"
 subtitle: "CAT Games" 
 description: "UI for rapid prototyping of physical, tangible games."
-featured_image: '/images/cat-games/catgames.png'
+featured_image: '/images/projects/cat-games/catgames.png'
 date: 2008-12-31
 tags: [interaction design, tangible interaction, SIAT, design process]
 published: true

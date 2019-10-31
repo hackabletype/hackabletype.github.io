@@ -2,7 +2,7 @@
 title: "Interactive Exhibit Design"
 subtitle: "Porticus Minucia Pavilion" 
 description: ""
-featured_image: '/images/porticus/Nate_RomeProject_Page_01_o.jpg'
+featured_image: '/images/projects/porticus/Nate_RomeProject_Page_01_o.jpg'
 date: 2007-06-30
 tags: [exhibition design, interactive space, interaction design,  design charette, SIAT, italia design field school 2007]
 published: true

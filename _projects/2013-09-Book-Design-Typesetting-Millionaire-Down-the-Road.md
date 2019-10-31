@@ -2,7 +2,7 @@
 title: "Book Design & Typesetting"
 subtitle: "Millionaire Down the Road" 
 description: ""
-featured_image: '/images/millionaire/cover.png'
+featured_image: '/images/projects/millionaire/cover.png'
 date: 2013-09-30
 tags: [typesetting, book design, page layout, cover design, graphic design]
 published: true

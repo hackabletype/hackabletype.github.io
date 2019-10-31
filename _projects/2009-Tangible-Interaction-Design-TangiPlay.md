@@ -2,7 +2,7 @@
 title: "Tangible Interaction Design"
 subtitle: "TangiPlay"
 description: "A prototyping environment designed for game designers to create tangible electronic games."
-featured_image: '/images/tangiplay/dice_v2-440.jpg'
+featured_image: '/images/projects/tangiplay/dice_v2-440.jpg'
 date: 2009-04-30
 tags: [interaction design, tangible interaction, SIAT, prototyping]
 published: true
