@@ -1,6 +1,6 @@
 site: hackabletype
 url: "hackabletype.com"
-version: 1.1.9
+version: 1.1.14
 
 collections:
   pages:
@@ -53,3 +53,7 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+# Analytics
+google_analytics: UA-90567457-1
+
