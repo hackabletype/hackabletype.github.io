@@ -2,7 +2,7 @@
 title: "Book Design & Typesetting"
 subtitle: "Millionaire Down the Road" 
 description: ""
-featured_image: '/images/millionaire/cover.png'
+featured_image: '/images/projects/millionaire/cover.png'
 date: 2013-09-30
 tags: [typesetting, book design, page layout, cover design, graphic design]
 published: true
@@ -12,20 +12,20 @@ This book design was done for Douglas R. Hodgins’ [Millionaire Down the Road](
 
 See more of this type of work at [Typographic](http://typographic.ca).
 
-![toc](/images/millionaire/mdtr-toc.png)
+![toc](/images/projects/millionaire/mdtr-toc.png)
 
-![body copy](/images/millionaire/mdtr-bodycopy.png)
+![body copy](/images/projects/millionaire/mdtr-bodycopy.png)
 
-![graphs](/images/millionaire/mdtr-graphs.png)
+![graphs](/images/projects/millionaire/mdtr-graphs.png)
 
-![text with numbered list](/images/millionaire/mdtr-txtwithnumberedlist.png)
+![text with numbered list](/images/projects/millionaire/mdtr-txtwithnumberedlist.png)
 
-![table mid text head](/images/millionaire/mdtr-table-midtexthead.png)
+![table mid text head](/images/projects/millionaire/mdtr-table-midtexthead.png)
 
 <!-- ![chapter title](/images/millionaire/mdtr-chapter-title_440_2x.png) -->
 
-![index](/images/millionaire/mdtr-index.png)
+![index](/images/projects/millionaire/mdtr-index.png)
 
-![cover](/images/millionaire/cover.png)
+![cover](/images/projects/millionaire/cover.png)
 
-![back cover](/images/millionaire/backcover.png)
+![back cover](/images/projects/millionaire/backcover.png)

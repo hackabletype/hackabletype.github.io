@@ -2,7 +2,7 @@
 title: "Design Research"
 subtitle: "Tangible Artifacts" 
 description: "Exploring aesthetic qualities of electronic artifacts"
-featured_image: '/images/interactiveartifacts/interactiveartifacts.png'
+featured_image: '/images/projects/interactiveartifacts/interactiveartifacts.png'
 date: 2011-04-30
 tags: [interaction design, tangible interaction, SIAT, prototyping, everyday design]
 published: true
