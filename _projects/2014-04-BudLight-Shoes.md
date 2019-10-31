@@ -16,12 +16,6 @@ published: false
 
 ![](/images/projects/bud-light-shoes/notes-2.jpg)
 
-![](/images/projects/bud-light-shoes/build-process-1.png)
-
-![](/images/projects/bud-light-shoes/build-process-2.jpg)
-
-![](/images/projects/bud-light-shoes/build-process-3.png)
-
 ![](/images/projects/bud-light-shoes/design.png)
 
 ![](/images/projects/bud-light-shoes/design-compare-1.jpg)
@@ -29,6 +23,12 @@ published: false
 ![](/images/projects/bud-light-shoes/design-compare-2.jpg)
 
 ![](/images/projects/bud-light-shoes/laser-cut.png)
+
+![](/images/projects/bud-light-shoes/build-process-1.png)
+
+![](/images/projects/bud-light-shoes/build-process-2.jpg)
+
+![](/images/projects/bud-light-shoes/build-process-3.png)
 
 ![](/images/projects/bud-light-shoes/first-build.jpg)
 
