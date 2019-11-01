@@ -14,4 +14,6 @@ Nathan worked as a research assistant for Jason Boileau's TangiPlay project. "Ta
 
 Nathan's role in this project included building a set of dice that sensed its acceleration, orientation, and speed, and communicated these back to the controlling system. The dice also took commands sent from the controlling system to change the lighting pattern displayed.
 
-<iframe src="https://player.vimeo.com/video/33841683?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
+<p>
+  <iframe src="https://player.vimeo.com/video/33841683?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
+</p>

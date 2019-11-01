@@ -18,7 +18,7 @@ Participants, or pilots, steer the blimp by shifting their collective center of 
 ## Press for weBLIMP
 
 <p>
-<iframe src="https://player.vimeo.com/video/10548172?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
+  <iframe src="https://player.vimeo.com/video/10548172?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
 </p>
 * [Fast Company](http://www.fastcompany.com/1551149/the-tech-of-the-2010-olympic-winter-games "http://www.fastcompany.com/1551149/the-tech-of-the-2010-olympic-winter-games"): _The Tech of the 2010 Olympic Winter Games_
 * [NOTCOT](https://web.archive.org/web/20100210193837/http://www.notcot.org/post/28218/). Now archived, original link: [http://www.notcot.org/post/28218/](http://www.notcot.org/post/28218/)  

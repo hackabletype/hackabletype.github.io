@@ -12,4 +12,6 @@ During his graduate studies Nathan worked with the Everyday Design studio. This 
 
 This video shows a user testing session with the objects that the team built.
 
-<iframe src="https://player.vimeo.com/video/23452266?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="248" frameborder="0"></iframe>
+<p>
+  <iframe src="https://player.vimeo.com/video/23452266?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="248" frameborder="0"></iframe>
+</p>
