@@ -9,13 +9,17 @@ published: true
 ---
 
 <iframe src="https://player.vimeo.com/video/4223282?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
-<br/>
 
-weBLIMP is a participatory media installation that explores crowd collaboration in the context of navigation. Participants are conceptually miniaturized and placed inside the gondola of a remote controlled blimp. Through ludic activities, where interaction is motivated by curiously and exploration instead of from external defined tasks, the project creates a sense of play. Participants, or pilots, steer the blimp by shifting their collective center of gravity, which in turn "tilts" the blimp in the appropriate direction.
+weBLIMP is a participatory media installation that explores crowd collaboration in the context of navigation.
+Participants are conceptually miniaturized and placed inside the gondola of a remote controlled blimp.
+Through ludic activities, where interaction is motivated by curiously and exploration instead of from external defined tasks, the project creates a sense of play.
+Participants, or pilots, steer the blimp by shifting their collective center of gravity, which in turn "tilts" the blimp in the appropriate direction.
 
 ## Press for weBLIMP
-<iframe src="https://player.vimeo.com/video/10548172?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
 
+<p>
+<iframe src="https://player.vimeo.com/video/10548172?portrait=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="440" height="330" frameborder="0"></iframe>
+</p>
 * [Fast Company](http://www.fastcompany.com/1551149/the-tech-of-the-2010-olympic-winter-games "http://www.fastcompany.com/1551149/the-tech-of-the-2010-olympic-winter-games"): _The Tech of the 2010 Olympic Winter Games_
 * [NOTCOT](https://web.archive.org/web/20100210193837/http://www.notcot.org/post/28218/). Now archived, original link: [http://www.notcot.org/post/28218/](http://www.notcot.org/post/28218/)  
 * [DesignBoom](http://www.designboom.com/weblog/cat/16/view/9304/weblimp.html "http://www.designboom.com/weblog/cat/16/view/9304/weblimp.html"): _weblimp_
