@@ -19,7 +19,7 @@ I recommend not looking directly at it... it's very bright.
   <img src="/images/projects/knog-lap-counter/side_on.jpg">
   <img src="/images/projects/knog-lap-counter/2017-04-12_10.32.18.jpg">
   <img src="/images/projects/knog-lap-counter/2017-04-14_22.07.19.jpg">
-  <img src="/images/projects/knog-lap-counter/2017-04-18_15.26.44.png">
+  <img src="/images/projects/knog-lap-counter/2017-04-18_15.26.44.jpg">
   <img src="/images/projects/knog-lap-counter/2017-04-20_00.03.40.jpg">
   <img src="/images/projects/knog-lap-counter/2017-04-20_00.05.03.jpg">
   <img src="/images/projects/knog-lap-counter/2017-04-20_22.09.19.jpg">
