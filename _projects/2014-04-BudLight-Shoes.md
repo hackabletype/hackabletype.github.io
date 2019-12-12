@@ -2,7 +2,7 @@
 title: "Interactive Prop Production"
 subtitle: "Bud Light Shoes"
 description: "A pair of shoes developed for Bud Light's #UpForWhatever campaign"
-featured_image: '/images/projects/bud-light-shoes/let-the-light-guide-you.png'
+featured_image: '/images/projects/bud-light-shoes/let-the-light-guide-you.jpg'
 date: 2014-04-30
 tags: [interaction design, tangible interaction, AKQA, prototyping, production]
 published: true
