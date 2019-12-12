@@ -15,20 +15,20 @@ Nate worked with designers, product designers, and fellow technologists to desig
 Nate was responsible for the electronics, prototypes, and getting the prototypes to fit into various pairs of shoes before the team landed on a final form factor.
 Once the shoes prototypes were ready, he and his fellow technologists made about a dozen pairs for the shoot.
 
-![Completed](/images/projects/bud-light-shoes/build-complete.png)
+![Completed](/images/projects/bud-light-shoes/build-complete.jpg)
 
 
 <div class="gallery" data-columns="3">
   <img src="/images/projects/bud-light-shoes/notes-1.jpg">
   <img src="/images/projects/bud-light-shoes/notes-2.jpg">
-  <img src="/images/projects/bud-light-shoes/design.png">
+  <img src="/images/projects/bud-light-shoes/design.jpg">
   <img src="/images/projects/bud-light-shoes/design-compare-1.jpg">
   <img src="/images/projects/bud-light-shoes/design-compare-2.jpg">
-  <img src="/images/projects/bud-light-shoes/laser-cut.png">
-  <img src="/images/projects/bud-light-shoes/build-process-1.png">
+  <img src="/images/projects/bud-light-shoes/laser-cut.jpg">
+  <img src="/images/projects/bud-light-shoes/build-process-1.jpg">
   <img src="/images/projects/bud-light-shoes/build-process-2.jpg">
-  <img src="/images/projects/bud-light-shoes/build-process-3.png">
+  <img src="/images/projects/bud-light-shoes/build-process-3.jpg">
   <img src="/images/projects/bud-light-shoes/first-build.jpg">
-  <img src="/images/projects/bud-light-shoes/build-complete.png">
-  <img src="/images/projects/bud-light-shoes/lights.png">
+  <img src="/images/projects/bud-light-shoes/build-complete.jpg">
+  <img src="/images/projects/bud-light-shoes/lights.jpg">
 </div>
