@@ -1,7 +1,7 @@
 basic_settings:
   site_title: hackabletype
   site_owner: Nate Waddington
-  site_tagline: 
+  site_tagline: "Nate Waddington's Portfolio"
   favicon_image: /images/favicon.ico
 
 header_settings:
