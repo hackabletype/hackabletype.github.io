@@ -1,7 +1,7 @@
 basic_settings:
   site_title: hackabletype
   site_owner: Nate Waddington
-  site_tagline: 
+  site_tagline: "Nate Waddington's Portfolio"
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -31,7 +31,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/hackabletype'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
