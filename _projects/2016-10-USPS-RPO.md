@@ -2,11 +2,25 @@
 title: "Interactive Kiosk Proof of Concept"
 subtitle: "USPS Rural Post Office"
 description: ""
-featured_image: ''
+featured_image:  '/images/projects/usps-rpo/buy-stamps-here.png'
 date: 2016-10-25
 tags: [AKQA, programming, prototyping, production, interaction design, installation, design, field test]
 published: true
 ---
+
+# ![](/images/projects/usps-rpo/buy-stamps-here.png)
+
+Nate had the opportunity to help the AKQA DC office with a physical prototype for the USPS. He relocated and worked with the DC team for two months, helping with the proof of concept, prototype (both code and physical aspects), and went with the team to North Dakota to field the prototype and ensure that it was fit for purpose.
+
+Our field test objectives incuded:
+
+* Proof that the concept worked
+* Understanding of how the audience would react to the experience in a real-life setting
+* Use a high-fidelity, working, proof of concept
+* Have an experience as self-guided as possible, with moderation as needed
+* Gain footage for case study video
+
+In the end, we wound up using the prototype to actually ship 8 packages for customers.
 
 ## Prototype Testing
 
