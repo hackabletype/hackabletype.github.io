@@ -16,7 +16,7 @@ published: true
 
 <br />
 
-# ![](/images/projects/ibm-museum-of-the-unseen/museum-of-the-unseen.png)
+# ![](/images/projects/ibm-museum-of-the-unseen/museum-of-the-unseen.jpg)
 
 Nate had the opportunity to work with the IBM team on the Exploratorium portion of the Museum of the Unseen. This was an interactive display case that worked with physical objects, the display screens, and the overall system controllers that IBM had for engaging with the entire experience.
 
