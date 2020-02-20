@@ -15,4 +15,4 @@ During his graduate studies he was primarily interested in everyday design and a
 Prior to his university studies he spent five years as a programmer specializing in embedded systems.
 His experience with embedded systems (small devices, usually lacking an operating system) has lead him to work on a lot of projects designing physical, tangible, and mobile devices.
 
-For more information about Nathan and his experience, take a look at his [LinkedIn profile](https://www.linkedin.com/in/nate-double-u/), or you can [contact him here](/contact/), he'd be happy to hear from you.
+For more information about Nathan and his experience, take a look at his [LinkedIn profile](https://www.linkedin.com/in/nate-double-u/), or you can [contact him here](/contact), he'd be happy to hear from you.
