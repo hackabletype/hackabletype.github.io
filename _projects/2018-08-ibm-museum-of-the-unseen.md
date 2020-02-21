@@ -18,9 +18,12 @@ published: true
 
 # ![](/images/projects/ibm-museum-of-the-unseen/museum-of-the-unseen.jpg)
 
-Nate had the opportunity to work with the IBM team on the Exploratorium portion of the Museum of the Unseen. This was an interactive display case that worked with physical objects, the display screens, and the overall system controllers that IBM had for engaging with the entire experience.
+Nate had the opportunity to work with the IBM team on the Exploratorium portion of the Museum of the Unseen.
+This was an interactive display case that worked with physical objects, the display screens, and the overall system controllers that IBM had for engaging with the entire experience.
 
-The objects interacted with the display case via RFID tags. The bases that the objects sit on relay information to the video player server via a series of Arduinos (connected with I2C to a master Arduino controller connected to the network). When an object is picked up or put down, the video player server would show the appropriate video, in the correct space. 
+The objects interacted with the display case via RFID tags.
+The bases that the objects sit on relay information to the video player server via a series of Arduinos (connected with I2C to a master Arduino controller connected to the network).
+When an object is picked up or put down, the video player server would show the appropriate video, in the correct space. 
 
 Roles and Objectives:
 * Built a testing rig so that the interactive display could be tested automatically

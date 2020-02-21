@@ -8,7 +8,9 @@ tags: [interaction design, tangible interaction, SIAT, prototyping, everyday des
 published: true
 ---
 
-During his graduate studies Nathan worked with the Everyday Design studio. This project is an exploration of interactive objects designed with specific attributes that the team thought might make them suited for appropriation. Nathan's role in this project was ideation, and implementation--specifically and mainly the electronics inside the objects. 
+During his graduate studies Nathan worked with the Everyday Design studio.
+This project is an exploration of interactive objects designed with specific attributes that the team thought might make them suited for appropriation.
+Nathan's role in this project was ideation, and implementation--specifically and mainly the electronics inside the objects. 
 
 This video shows a user testing session with the objects that the team built.
 
