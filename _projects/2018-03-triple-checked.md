@@ -8,8 +8,7 @@ tags: [AKQA, programming, prototyping, production, installation, artificial inte
 published: true
 ---
 
-<!--<p><iframe src="https://player.vimeo.com/video/392610351" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p> -->
-<p><iframe src="videos/IBM Watson - Triple-Checked.mp4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
+<p><iframe src="https://player.vimeo.com/video/392610351" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
 
 <small>“Watson’s visual recognition, natural language processing and machine learning combine for a personalised, interactive AI introduction. Watson reads thousands of pages of T&Cs from the most downloaded apps, extracting the relevant privacy data, pinpointing the risks, before suggesting ways each guest can protect their invaluable information.”</small>
 
@@ -23,4 +22,7 @@ Over the course of two years, several activations have been built for the Kiosk 
 The Triple-Checked activation, as one of the launch activations, is a little different in that it has a camera option, though any subsequent activation can use it, it is thus far the only one that does so.
 
 Roles and Objectives
-* 
+* Setup the IBM Watson machine learning system to recognize 20 top used app icons
+* Helped write the software to interface with the camera
+* Worked on the middleware to query Watson with images of phones
+* Worked with vendors to design physical enclosure of the camera in the Kiosk
