@@ -1,6 +1,6 @@
 ---
 title: "Triple-Checked"
-subtitle: "In an era of big data, there’s<br />no hiding for the small print"
+subtitle: "In an era of big data, there’s no hiding<br />for the small print"
 description: ""
 featured_image:  '/images/projects/triple-checked/think-2018.png'
 date: 2018-03-18
@@ -15,4 +15,7 @@ published: true
 <p align="right">– AKQA <a href="https://www.akqa.com/work/ibm/triple-checked/">Triple-Checked</a></p>
 
 <br />
+
+Triple-Checked is a part of the Watson Activations project.
+Watson Activations is a Kiosk system built for IBM that allows for multiple and varied experiences to be installed and shown around the world at various conferences and trade shows.
 

@@ -10,7 +10,8 @@ published: true
 
 # ![](/images/projects/usps-rpo/buy-stamps-here.png)
 
-Nate had the opportunity to help the AKQA DC office with a physical prototype for the USPS. He relocated and worked with the DC team for two months, helping with the proof of concept, prototype (both code and physical aspects), and went with the team to North Dakota to field the prototype and ensure that it was fit for purpose.
+Nate had the opportunity to help the AKQA DC office with a physical prototype for the USPS.
+He relocated and worked with the DC team for two months, helping with the proof of concept, prototype (both code and physical aspects), and went with the team to North Dakota to field the prototype and ensure that it was fit for purpose.
 
 Our field test objectives included:
 

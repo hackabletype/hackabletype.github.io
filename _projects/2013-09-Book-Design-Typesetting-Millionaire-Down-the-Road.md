@@ -8,7 +8,11 @@ tags: [typesetting, book design, page layout, cover design, graphic design]
 published: true
 ---
 
-This book design was done for Douglas R. Hodgins’ [Millionaire Down the Road](http://millionairedowntheroad.com). My role was to design the page layout, as well as do the information and cover design. I also coordinated the illustration for the cover (finding an illustrator, and liaising between them and the author). The cover illustration was done by [Yvonne Ren](mailto:ren.yvonne@gmail.com). Images used with permission.
+This book design was done for Douglas R. Hodgins’ [Millionaire Down the Road](http://millionairedowntheroad.com).
+My role was to design the page layout, as well as do the information and cover design.
+I also coordinated the illustration for the cover (finding an illustrator, and liaising between them and the author).
+The cover illustration was done by [Yvonne Ren](mailto:ren.yvonne@gmail.com).
+Images used with permission.
 
 See more of this type of work at [Typographic](http://typographic.ca).
 
