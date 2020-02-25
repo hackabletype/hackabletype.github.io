@@ -4,7 +4,7 @@ subtitle: "Bringing video games into the smart home"
 description: ""
 featured_image:  '/images/projects/destiny-2-ghost-skill/article-01-a-large-2.jpg'
 date: 2017-11-30
-tags: [AKQA, programming, prototyping, production]
+tags: [AKQA, programming, prototyping, production, Amazon Echo skill]
 published: true
 ---
 
@@ -17,9 +17,19 @@ published: true
 Roles and Objectives:
 
 * Built live proof of concept code connecting Alexa and Destiny API to ensure the concept worked.
-* Worked with industrial designer to build a prototype of the Ghost Character to bring to Clients to demonstrate concept. Nate worked on the electronics of this prototype.
+* Worked with industrial designer to build a prototype of the Ghost Character to bring to the clients to demonstrate the concept. Nate worked on the electronics portion of this prototype.
+
+## Awards for Destiny 2 Ghost Skill
+
+#### Clios
+* Gold: [Games: Digital/Mobile, Apps category](https://clios.com/entertainment/winner/42726) 
+* Silver: [Games:  Innovation, Medium Innovation category]()
+
+#### Cannes
+* Silver: [Digital Craft:  Innovative Use of Technology]()
 
 ## Press for Destiny 2 Ghost Skill
 
 * Time: ['Destiny 2' Is Adding An Interesting Perk for Amazon Echo Users](https://time.com/5041901/destiny-2-ghost-alexa-skill/)
 * Mashable: [Amazon's Alexa will now help you out in 'Destiny 2'](https://mashable.com/2017/11/30/alexa-ghost-destiny-2/?europe=true)
+
