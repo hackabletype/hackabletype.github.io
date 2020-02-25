@@ -3,7 +3,7 @@ title: "Call of Duty XP Live"
 subtitle: "Live Streaming a CoD Event to Facebook Live"
 description: ""
 featured_image:  '/images/projects/cod-xp-live/cod-xp-live-2016.png'
-date: 2016-09-01
+date: 2016-09-02
 tags: [AKQA, programming, prototyping, production, Facebook live, odroid, ffmpeg]
 published: true
 ---
