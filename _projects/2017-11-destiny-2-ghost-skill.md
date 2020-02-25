@@ -23,10 +23,10 @@ Roles and Objectives:
 
 #### Clios
 * Gold: [Games: Digital/Mobile, Apps category](https://clios.com/entertainment/winner/42726) 
-* Silver: [Games:  Innovation, Medium Innovation category]()
+* Silver: [Games: Innovation, Medium Innovation category]()
 
 #### Cannes
-* Silver: [Digital Craft:  Innovative Use of Technology]()
+* Silver: [Digital Craft: Innovative Use of Technology]()
 
 ## Press for Destiny 2 Ghost Skill
 
