@@ -19,6 +19,7 @@ Roles and Objectives:
 * Built live proof of concept code connecting Alexa and the Destiny API to ensure the concept worked.
 * Worked with industrial designer to build a prototype of the Ghost Character to bring to the clients to demonstrate the concept. Nate worked on the electronics portion of this prototype.
 
+<br />
 # ![](/images/projects/destiny-2-ghost-skill/prototype-ghost.png)
 <p align="right"><small>Proof of concept prototype ghost prototype</small></p>
 
