@@ -35,6 +35,5 @@ Average stream = 25min
   <img src="/images/projects/cod-xp-live/20160903_135935-458.small.jpg">
   <img src="/images/projects/cod-xp-live/20160929_093957-106.small.jpg">
   <img src="/images/projects/cod-xp-live/Screen Shot 2016-09-01 at 7.29.37 PM-331.png">
-  <img src="/images/projects/cod-xp-live/Screen Shot 2016-09-02 at 2.12.42 PM-472.png">
   <img src="/images/projects/cod-xp-live/Screen Shot 2016-09-03 at 12.48.45 PM-478.png">
 </div>
