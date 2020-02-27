@@ -10,9 +10,13 @@ published: true
 
 # ![](/images/projects/cod-xp-live/20160902_105019-453.small.jpg)
 
-Lorem ipsum dolor sit amet
+In September of 2016 Activision ran it's Call of Duty XP event.
+They asked AKQA for a way to extend the event out to people who were interested in the CoD franchise, but who weren't able to make it to the event.
 
-Roles and Objectives
+We 
+
+Roles and Objectives:
+* 
 
 
 ### Outcome
