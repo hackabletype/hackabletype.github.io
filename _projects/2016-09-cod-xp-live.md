@@ -20,8 +20,12 @@ Then, when they got into the play space, they would sit down in groups and tap t
 
 Roles and Objectives:
 * Worked with the team to setup the streaming platform
-* 
-
+    - System ran on Ubuntu Linux on Odroid hardware
+    - Ffmpeg used to encode data from source
+* Sourced and designed mounting solution
+* Worked with QA department to ensure that the system could stand the rigours of 3 days of near constant streaming
+* Built 50+ streaming rigs, and backups
+* Worked with the AKQA team and the Event co-ordinators to install the system onsite
 
 ### Outcome
 
