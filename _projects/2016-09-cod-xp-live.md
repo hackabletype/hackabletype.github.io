@@ -25,7 +25,7 @@ Roles and Objectives:
 * Sourced and designed mounting solution
 * Worked with QA department to ensure that the system could stand the rigours of 3 days of near constant streaming
 * Built 50+ streaming rigs, and backups
-* Worked with the AKQA team and the Event co-ordinators to install the system onsite
+* Worked with the AKQA team and the Event coordinators to install the system on site
 
 ### Outcome
 
