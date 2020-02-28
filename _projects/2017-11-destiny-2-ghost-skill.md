@@ -20,8 +20,9 @@ Roles and Objectives:
 * Worked with industrial designer to build a prototype of the Ghost Character to bring to the clients to demonstrate the concept. Nate worked on the electronics portion of this prototype.
 
 <br />
-# ![](/images/projects/destiny-2-ghost-skill/prototype-ghost.png)
-<p align="right"><small>Proof of concept prototype ghost prototype</small></p>
+<p><iframe src="https://player.vimeo.com/video/394324192" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p> 
+
+<small>Video of the proof of concept prototype Ghost</small>
 
 ## Awards for Destiny 2 Ghost Skill
 
