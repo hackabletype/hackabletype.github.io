@@ -22,7 +22,7 @@ Roles and Objectives:
 <br />
 <p><iframe src="https://player.vimeo.com/video/394324192" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p> 
 
-<small>Video of the proof of concept prototype ghost prototype</small>
+<small>Video of the proof of concept prototype Ghost</small>
 
 ## Awards for Destiny 2 Ghost Skill
 
