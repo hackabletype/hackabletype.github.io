@@ -2,7 +2,7 @@
 title: "Destiny 2 Ghost Skill"
 subtitle: "Bringing video games into the smart home"
 description: ""
-featured_image:  '/images/projects/destiny-2-ghost-skill/article-01-a-large-2.jpg'
+featured_image:  '/images/projects/destiny-2-ghost-skill/article-01-a-large-2.png'
 date: 2017-11-30
 tags: [AKQA, programming, prototyping, production, Amazon Echo skill]
 published: true
