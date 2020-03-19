@@ -10,7 +10,7 @@ published: true
 
 Nate's friend Clare and her husband run the [Mission Crit](http://missioncrit.com/) bike race, and this year they had the idea to work with their sponsor Knog to build a lap counter out of bike lights.
 
-Clare did a great writeup of "[How to Build Your Own Race Lap Counter](https://www.knog.com.au/blog/how-to-build-your-own-race-lap-counter)," outlining what we did to build it.
+Clare did a great writeup of "[How to Build Your Own Race Lap Counter](https://web.archive.org/web/20180401035428/https://www.knog.com.au/blog/how-to-build-your-own-race-lap-counter/)," outlining what we did to build it.
 
 I recommend not looking directly at it... it's very bright.
 
