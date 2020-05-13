@@ -13,15 +13,15 @@ published: true
 In September of 2016 Activision ran it's Call of Duty XP event.
 They asked AKQA for a way to extend the event out to people who were interested in the CoD franchise, but who weren't able to make it to the event.
 
-We built a streamer that took the feed from the PS4s hdmi port, and stream it live to their Facebook wall.
+We built a streamer that took the feed from the PS4s HDMI port, and stream it live to their Facebook wall.
 
 While lining up for the experience, gamers would login to Facebook and pair their RFID wristband to their account.
-Then, when they got into the play space, they would sit down in groups and tap their wristband on the rfid reader to connect and launch the streamer.
+Then, when they got into the play space, they would sit down in groups and tap their wristband on the RFID reader to connect and launch the streamer.
 
 Roles and Objectives:
 * Worked with the team to setup the streaming platform
     - System ran on Ubuntu Linux on Odroid hardware
-    - Ffmpeg used to encode data from source
+    - FFmpeg used to encode data from source
 * Sourced and designed mounting solution
 * Worked with QA department to ensure that the system could stand the rigours of 3 days of near constant streaming
 * Built 50+ streaming rigs, and backups
@@ -38,7 +38,7 @@ Average stream = 25min
 = 567 hours of streamed gameplay  
 = Almost 24 days of streaming
 
-### Onsite
+### On-site
 <p>
 <div class="gallery" data-columns="1">
   <img src="/images/projects/cod-xp-live/cod-xp-live-2016.png">
