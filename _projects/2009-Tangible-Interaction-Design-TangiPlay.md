@@ -17,6 +17,8 @@ A user interacts on top of the interactive surface with the physical tokens and 
 
 ![Physical Prototype](/images/projects/tangiplay/dice_v2-440.jpg)
 
+#### Roles & Objectives
+
 Nathan's role in this project included building a set of dice that sensed its acceleration, orientation, and speed, and communicated these back to the controlling system.
 The dice also took commands sent from the controlling system to change the lighting pattern displayed.
 

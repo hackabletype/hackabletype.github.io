@@ -14,7 +14,7 @@ published: true
 
 <p align="right">– AKQA <a href="https://www.akqa.com/work/activision/destiny-2-ghost-skill/">Destiny 2 Ghost Skill</a></p>
 
-Roles and Objectives:
+#### Roles & Objectives
 
 * Built live proof of concept code connecting Alexa and the Destiny API to ensure the concept worked.
 * Worked with industrial designer to build a prototype of the Ghost Character to bring to the clients to demonstrate the concept. Nate worked on the electronics portion of this prototype.
