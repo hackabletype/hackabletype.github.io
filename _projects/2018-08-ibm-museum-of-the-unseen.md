@@ -25,7 +25,7 @@ The objects interacted with the display case via RFID tags.
 The bases that the objects sit on relay information to the video player server via a series of Arduinos (connected with I2C to a master Arduino controller connected to the network).
 When an object is picked up or put down, the video player server would show the appropriate video, in the correct space. 
 
-Roles and Objectives:
+#### Roles & Objectives
 * Built a testing rig so that the interactive display could be tested automatically
 * Help write and program the communication protocols between systems
 * Engage and work with overseas clients to understand how the system should be built–this was a retrofit project, going into an existing space with existing systems that needed to be considered.

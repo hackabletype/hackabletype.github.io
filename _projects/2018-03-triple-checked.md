@@ -21,7 +21,7 @@ Watson Activations is a Kiosk system built for IBM that allows for multiple and 
 Over the course of two years, several activations have been built for the Kiosk system, and it's design ensured that these activations, once built, can be run without a specific need for AKQA staff to be involved (or even to know about the event).
 The Triple-Checked activation, as one of the launch activations, is a little different in that it has a camera option, though any subsequent activation can use it, it is thus far the only one that does so.
 
-Roles and Objectives
+#### Roles & Objectives
 * Setup the IBM Watson machine learning system to recognize 20 top used app icons
 * Helped write the software to interface with the camera
 * Worked on the middleware to query Watson with images of phones

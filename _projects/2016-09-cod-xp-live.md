@@ -18,7 +18,7 @@ We built a streamer that took the feed from the PS4s HDMI port, and stream it li
 While lining up for the experience, gamers would login to Facebook and pair their RFID wristband to their account.
 Then, when they got into the play space, they would sit down in groups and tap their wristband on the RFID reader to connect and launch the streamer.
 
-Roles and Objectives:
+#### Roles & Objectives
 * Worked with the team to setup the streaming platform (System ran on Ubuntu Linux on Odroid hardware and FFmpeg was used to encode data from source)
 * Sourced and designed mounting solution
 * Worked with QA department to ensure that the system could stand the rigours of 3 days of near constant streaming

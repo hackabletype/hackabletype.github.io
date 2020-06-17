@@ -12,6 +12,9 @@ published: true
 
 During his internship at AKQA Nate had the opportunity to help produce a pair of shoes for Bud Light's "Up For Whatever" campaign.
 Nate worked with designers, product designers, and fellow technologists to design and produce these shoes.
+
+#### Roles & Objectives
+
 Nate was responsible for the electronics, prototypes, and getting the prototypes to fit into various pairs of shoes before the team landed on a final form factor.
 Once the shoes prototypes were ready, he and his fellow technologists made about a dozen pairs for the shoot.
 
