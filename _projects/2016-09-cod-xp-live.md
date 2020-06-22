@@ -19,7 +19,9 @@ While lining up for the experience, gamers would login to Facebook and pair thei
 Then, when they got into the play space, they would sit down in groups and tap their wristband on the RFID reader to connect and launch the streamer.
 
 #### Roles & Objectives
-* Worked with the team to setup the streaming platform (System ran on Ubuntu Linux on Odroid hardware and FFmpeg was used to encode data from source)
+* Worked with the team to setup the streaming platform 
+  - System ran on Ubuntu Linux on Odroid hardware
+  - FFmpeg was used to encode data from source
 * Sourced and designed mounting solution
 * Worked with QA department to ensure that the system could stand the rigours of 3 days of near constant streaming
 * Built 50+ streaming rigs, and backups
@@ -27,14 +29,14 @@ Then, when they got into the play space, they would sit down in groups and tap t
 
 ### Outcome
 
-1294 Total users streamed #XPLive throughout the weekend
+1294 Total users streamed `#XPLive` throughout the weekend
 
-Average stream = 25min
+Average stream: 25min
 
-**Total**  
-= 33,359 minutes   
-= 567 hours of streamed gameplay  
-= Almost 24 days of streaming
+**Totals**  
+* 33,359 minutes   
+* 567 hours of streamed gameplay  
+* Almost 24 days of streaming
 
 ### On-site
 <p>
