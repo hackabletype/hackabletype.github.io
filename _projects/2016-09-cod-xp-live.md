@@ -8,7 +8,7 @@ tags: [AKQA, programming, prototyping, production, Facebook live, odroid, ffmpeg
 published: true
 ---
 
-# ![](/images/projects/cod-xp-live/20160902_105019-453.small.jpg)
+# ![](/images/projects/cod-xp-live/20160902_104958-447.small.jpg)
 
 In September of 2016 Activision ran it's Call of Duty XP event.
 They asked AKQA for a way to extend the event out to people who were interested in the CoD franchise, but who weren't able to make it to the event.
