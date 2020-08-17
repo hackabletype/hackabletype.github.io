@@ -49,6 +49,8 @@ sass:
 
 plugins:
   - jekyll-paginate
+
+gems:
   - jekyll-sitemap
 
 paginate: 6
