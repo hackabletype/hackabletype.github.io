@@ -26,8 +26,8 @@ university studies he spent five years as a programmer specializing in embedded
 systems.
 
 His experience with embedded systems (small devices, usually lacking an
-operating system) has lead him to work on a lot of projects designing physical,
-tangible, and mobile devices.
+operating system) has helped him design many tangible physical projects, as well
+as mobile devices.
 
 For more information about Nathan and his experience, take a look at his
 [LinkedIn profile](https://www.linkedin.com/in/nate-double-u/), or you can
